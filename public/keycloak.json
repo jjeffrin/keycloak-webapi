@@ -1,0 +1,10 @@
+{
+  "realm": "JJHome",
+  "auth-server-url": "https://keycloak.jjhome.in/",
+  "ssl-required": "external",
+  "resource": "JeffTest",
+  "verify-token-audience": true,
+  "public-client": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
